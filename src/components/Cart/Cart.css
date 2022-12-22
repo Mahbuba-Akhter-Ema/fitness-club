@@ -1,0 +1,94 @@
+.cart-container{
+    background-color: white;
+}
+.info-container{
+    display: flex;
+}
+.my-img{
+    width: 20%;
+    height: 50px;
+    border-radius: 30px;
+    padding: 10px;
+}
+.personal-info{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    line-height: 8px;
+    background-color: #F2F4FA;
+}
+.cart-headings{
+    margin-left: 15px;
+}
+.timer{
+    display: flex;
+    background-color: #F2F4FA;
+    margin: 12px;
+    height: 60px;
+}
+.btn-timer{
+    border: none;
+    margin: 10px;
+    background-color: #fff;
+    border-radius: 20px;
+    font-weight: bold;
+}
+.btn-timer:hover{
+    background-color: #5D5FEF;
+    color: white;
+}
+.exercise-time{
+    display: flex;
+    background-color: #F2F4FA;
+    height: 60px;
+    justify-content: space-between;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.break-time{
+    display: flex;
+    background-color: #F2F4FA;
+    height: 60px;
+    justify-content: space-between;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.btn-activity{
+    width: 90%;
+    padding: 15px;
+    margin: 10px;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: #6E316F;
+    color: white;
+}
+.btn-activity:hover{
+    background-color: #5D5FEF;
+}
+
+@media only screen and (max-width: 688px) {
+    .my-img{
+        width: 10%;
+        height: 30px;
+        border-radius: 20px;
+        padding: 10px;
+    }
+    .personal-info{
+        display: flex;
+        justify-content: space-between;
+        line-height: 8px;
+        background-color: #F2F4FA;
+    }
+    .btn-activity{
+        width: 80%;
+        padding: 15px;
+        margin-left: 25px;
+        border: none;
+        font-weight: bold;
+        border-radius: 5px;
+        background-color: #6E316F;
+        color: white;
+    }
+}

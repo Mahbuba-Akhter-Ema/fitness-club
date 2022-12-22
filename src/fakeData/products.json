@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Stretching",
+    "time": 10,
+    "img": "https://stretchcoach.com/wp-content/uploads/FITT-for-stretching.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Warm up",
+    "time": 20,
+    "img": "https://stretchcoach.com/wp-content/uploads/warm-up.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Dynamic Stretching",
+    "time": 25,
+    "img": "https://stretchcoach.com/wp-content/uploads/dynamic-stretching-4-types.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Static Stretching",
+    "time": 15,
+    "img": "https://stretchcoach.com/wp-content/uploads/static-stretching-dead.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Cool Down Exercise",
+    "time": 20,
+    "img": "https://stretchcoach.com/wp-content/uploads/cool-down.jpg"
+  },
+  {
+    "id": "6",
+    "name": "static flexibility",
+    "time": 30,
+    "img": "https://stretchcoach.com/wp-content/uploads/stretching-defined.jpg"
+  }  
+]
